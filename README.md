@@ -1,2 +1,2 @@
 # DerivativePricers
-Implementation of different derivative pricers
+C++ based implementation of different pricers
